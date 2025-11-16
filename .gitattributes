@@ -1,0 +1,6 @@
+# Normalize line endings
+* text=auto
+
+# Treat C++ files as text
+*.cpp text
+*.h   text
